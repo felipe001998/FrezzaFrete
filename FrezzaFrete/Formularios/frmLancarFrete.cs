@@ -213,6 +213,18 @@ namespace FrezzaFrete
 
         private void btnSair_Click(object sender, EventArgs e)
         {
+            remetente = "";
+            destinatario = "";
+            nome = "";
+            NF = "";
+            Vale = "";
+            Volume = "";
+            PCarreta = "";
+            PCavalo = "";
+            TotalComissao = "";
+            FreteTotal = "";
+            Data = "";
+            
             new fmrInicio().Show();
             this.Close();
         }
