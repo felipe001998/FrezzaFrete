@@ -1,0 +1,63 @@
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csprojAssemblyReference.cache
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmCadastrarMotorista.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmCadastrarViagem.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.fmrInicio.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmLancarFrete.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarFrete.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarMotorista.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarMotoristacs.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.Properties.Resources.resources
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.GenerateResource.cache
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.CoreCompileInputs.cache
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\bin\Debug\FrezzaFrete.exe.config
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\bin\Debug\FrezzaFrete.exe
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\bin\Debug\FrezzaFrete.pdb
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\bin\Debug\Negocio.dll
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\bin\Debug\Negocio.pdb
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.CopyComplete
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.exe
+C:\Users\Felps\source\repos\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.pdb
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\bin\Debug\FrezzaFrete.exe.config
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\bin\Debug\FrezzaFrete.exe
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\bin\Debug\FrezzaFrete.pdb
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\bin\Debug\itextsharp.dll
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\bin\Debug\Negocio.dll
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\bin\Debug\Negocio.pdb
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\bin\Debug\itextsharp.xml
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.csprojAssemblyReference.cache
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.frmCadastrarMotorista.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.frmCadastrarViagem.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.fmrInicio.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.frmLancarFrete.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarFrete.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarMotorista.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarMotoristacs.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.Properties.Resources.resources
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.GenerateResource.cache
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.CoreCompileInputs.cache
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.CopyComplete
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.exe
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.pdb
+C:\Users\Felps\source\repos\FrezzaFrete - Copia\FrezzaFrete\obj\Debug\FrezzaFrete.frmGerarRel.resources
+C:\FrezzaFrete\FrezzaFrete\bin\Debug\FrezzaFrete.exe.config
+C:\FrezzaFrete\FrezzaFrete\bin\Debug\FrezzaFrete.exe
+C:\FrezzaFrete\FrezzaFrete\bin\Debug\FrezzaFrete.pdb
+C:\FrezzaFrete\FrezzaFrete\bin\Debug\itextsharp.dll
+C:\FrezzaFrete\FrezzaFrete\bin\Debug\Negocio.dll
+C:\FrezzaFrete\FrezzaFrete\bin\Debug\Negocio.pdb
+C:\FrezzaFrete\FrezzaFrete\bin\Debug\itextsharp.xml
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csprojAssemblyReference.cache
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmCadastrarMotorista.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmCadastrarViagem.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.fmrInicio.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmLancarFrete.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarFrete.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarMotorista.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmPesquisarMotoristacs.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.frmGerarRel.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.Properties.Resources.resources
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.GenerateResource.cache
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.CoreCompileInputs.cache
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.csproj.CopyComplete
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.exe
+C:\FrezzaFrete\FrezzaFrete\obj\Debug\FrezzaFrete.pdb
